@@ -1,0 +1,18 @@
+{
+    "courseName":"HTML",
+    "courseImage": "https://cdn.pixabay.com/photo/2018/02/22/17/27/programming-3173456_960_720.png",
+    "lessons": [
+        {
+            "id": 1,
+            "lastUpdate": "10/14/2021",
+            "title": "introduction of HTMl",
+            "detail": "this is a detail secition from lesson 1"
+        },
+        {
+            "id": 2,
+            "lastUpdate": "10/14/2021",
+            "title": "Basic Key word in HTML",
+            "detail": "this is a detail secition from lesson 2"
+        },
+    ],
+}
