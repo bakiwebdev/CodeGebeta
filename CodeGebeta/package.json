@@ -12,10 +12,15 @@
   "dependencies": {
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.4",
+    "appcenter": "4.3.0",
+    "appcenter-analytics": "4.3.0",
+    "appcenter-crashes": "4.3.0",
     "react": "17.0.2",
     "react-native": "0.66.0",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.8.0",
+    "react-native-size-matters": "^0.4.0",
+    "react-native-splash-screen": "^3.2.0",
     "react-native-vector-icons": "^8.1.0"
   },
   "devDependencies": {

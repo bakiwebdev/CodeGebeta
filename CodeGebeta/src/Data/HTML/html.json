@@ -5,14 +5,14 @@
         {
             "id": 1,
             "lastUpdate": "10/14/2021",
-            "title": "introduction of HTMl",
-            "detail": "this is a detail secition from lesson 1"
+            "title": "ትውውቅ ከ HTML ጋር",
+            "detail": "በቅርቡ ትምህርት ስለምንለቅ እባኮን በትግስት ይጠብቁ"
         },
         {
             "id": 2,
             "lastUpdate": "10/14/2021",
-            "title": "Basic Key word in HTML",
-            "detail": "this is a detail secition from lesson 2"
+            "title": "መሰረታዊ የ HTML ህጎች",
+            "detail": "በቅርቡ ትምህርት ስለምንለቅ እባኮን በትግስት ይጠብቁ"
         },
     ],
 }

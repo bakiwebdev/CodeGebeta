@@ -1,12 +1,12 @@
-import {StyleSheet} from 'react-native';
+import { ScaledSheet } from 'react-native-size-matters';
 import ColorSchema from '../../Constants/ColorSchema';
 
-export default StyleSheet.create({
+export default ScaledSheet.create({
   wrapper: {
-    height: 170,
-    width: 340,
-    marginHorizontal: 10,
-    marginVertical: 5,
+    height: '150@s',
+    width: '280@s',
+    marginHorizontal: '10@s',
+    marginVertical: '5@s',
     borderRadius: 10,
     borderWidth: 1,
     overflow: 'hidden',

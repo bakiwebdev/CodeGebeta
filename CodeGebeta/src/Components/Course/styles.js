@@ -1,11 +1,11 @@
-import {StyleSheet} from 'react-native';
+import {ScaledSheet} from 'react-native-size-matters';
 import ColorSchema from '../../Constants/ColorSchema';
 
-export default StyleSheet.create({
+export default ScaledSheet.create({
   wrapper: {
-    width: 180,
-    height: 160,
-    margin: 5,
+    width: '150@s',
+    height: '130@s',
+    margin: '5@s',
     borderRadius: 10,
     overflow: 'hidden',
     alignItems: 'center',
@@ -24,6 +24,6 @@ export default StyleSheet.create({
     height: '60%',
   },
   lessons: {
-      color: ColorSchema.secondary,
-  }
+    color: ColorSchema.secondary,
+  },
 });

@@ -1,13 +1,17 @@
-import { NavigationContainer } from '@react-navigation/native'
-import React from 'react'
-import StackContainer from './StackNavigation'
+import {NavigationContainer} from '@react-navigation/native';
+import React, {useEffect} from 'react';
+import StackContainer from './StackNavigation';
+import SplashScreen from 'react-native-splash-screen';
 
 const AppNavigation = () => {
-    return (
-        <NavigationContainer>
-            <StackContainer />
-        </NavigationContainer>
-    )
-}
+  useEffect(() => {
+    SplashScreen.hide();
+  });
+  return (
+    <NavigationContainer>
+      <StackContainer />
+    </NavigationContainer>
+  );
+};
 
-export default AppNavigation
+export default AppNavigation;
