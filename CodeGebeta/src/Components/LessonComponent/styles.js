@@ -20,8 +20,18 @@ export default StyleSheet.create(
             fontSize: 30,
         },
         lessonDetail: {
-            padding: 10,
-            color: ColorSchema.secondary,
+            body: {
+                padding: 10,                
+                color: ColorSchema.secondary,
+            },
+            code_inline: {
+                backgroundColor: ColorSchema.secondary,
+                color: ColorSchema.bg
+            },
+            code_block: {
+                backgroundColor: ColorSchema.secondary,
+                color: ColorSchema.bg
+            },
         }
     }
 );

@@ -2,19 +2,19 @@ import React from 'react';
 import {View, Text} from 'react-native';
 import Course from '../Course';
 import styles from './styles';
-import HtmlData from '../../Data/HTML/html.json'
-import CssData from '../../Data/CSS/css.json'
-import PhpData from '../../Data/PHP/php.json'
-import PythonData from '../../Data/PYTHON/python.json'
-import JavaData from '../../Data/JAVA/java.json'
-import JavaScriptData from '../../Data/JavaScript/javascript.json'
-import SqlData from '../../Data/SQL/sql.json'
-import ReactJSData from '../../Data/ReactJS/reactjs.json'
-import AspData from '../../Data/AspDotNet/aspdotnet.json'
-import DjangoData from '../../Data/Django/django.json'
-import ReactNativeData from '../../Data/ReactNative/reactnative.json'
-import RubyData from '../../Data/Ruby/ruby.json'
-import NodeData from '../../Data/NodeJs/nodejs.json'
+import HtmlData from '../../Data/HTML/html'
+import CssData from '../../Data/CSS/css'
+import PhpData from '../../Data/PHP/php'
+import PythonData from '../../Data/PYTHON/python'
+import JavaData from '../../Data/JAVA/java'
+import JavaScriptData from '../../Data/JavaScript/javascript'
+import SqlData from '../../Data/SQL/sql'
+import ReactJSData from '../../Data/ReactJS/reactjs'
+import AspData from '../../Data/AspDotNet/aspdotnet'
+import DjangoData from '../../Data/Django/django'
+import ReactNativeData from '../../Data/ReactNative/reactnative'
+import RubyData from '../../Data/Ruby/ruby'
+import NodeData from '../../Data/NodeJs/nodejs'
 const CourseContainer = () => {
   return (
     <View style={styles.wrapper}>

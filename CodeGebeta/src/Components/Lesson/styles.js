@@ -16,14 +16,18 @@ export default ScaledSheet.create(
             marginVertical: '5@s',
         },
         textStyle: {
+            width: '90%',
             overflow: 'hidden',
         },
         lessonText: {
             fontSize: '9@s',
             color: ColorSchema.grey,
         },
-        lessonTitle: {
+        lessonTitle: {            
+            flexDirection: "row",
             color: ColorSchema.secondary,
+            height: '20@s',
+            overflow: "hidden"
         },
         iconSize: {
 
