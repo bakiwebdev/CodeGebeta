@@ -1,6 +1,7 @@
 import {StyleSheet} from 'react-native';
 import ColorSchema from '../../Constants/ColorSchema';
 
+
 export default StyleSheet.create({
   container: {
     width: '100%',
@@ -30,7 +31,7 @@ export default StyleSheet.create({
     marginTop: 10,
     marginBottom: 10,
   },
-  darkmodeText: {
+  darkModeText: {
     fontSize: 16,
     color: ColorSchema.dark_gray,
   },
@@ -49,6 +50,7 @@ export default StyleSheet.create({
   },
   picker: {
     width: '100%',
+    color: ColorSchema.dark_gray,
   },
   buttonContainerStyle: {
     marginLeft: 20,

@@ -12,3 +12,17 @@ export default {
     border_gray: '#707070',
     black: '#000000',
   };
+
+// import React, {useContext} from 'react';
+// import {View, Text} from 'react-native';
+// import ThemeContext from '../Provider/ThemeProvider';
+// import Themes from '../Themes/colors';
+
+// const ColorSchema = () => {
+//   const {theme} = useContext(ThemeContext);
+
+//   const value = theme ? Themes.dark : Themes.light;
+//   return value;
+// };
+
+// export default ColorSchema;

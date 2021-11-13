@@ -26,6 +26,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import AppNavigation from './src/navigation';
+import GlobalProvider from './src/Provider';
+import TestScreen from './src/Screens/Test';
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';
@@ -61,7 +63,10 @@ const App: () => Node = () => {
   };
 
   return (
-    <AppNavigation />
+    <GlobalProvider>
+      <AppNavigation />
+      {/* <TestScreen /> */}
+    </GlobalProvider>
   );
 };
 
