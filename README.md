@@ -1,18 +1,40 @@
-# CodeGebeta
+# <img src="https://user-images.githubusercontent.com/57604289/137598441-f258594a-7396-44a2-a95b-99b0f50a41b8.png" width="50px" height="50px"> CodeGebeta
 
-### Logo
+### Quick link
 
-![CodeGebetaLogo](https://user-images.githubusercontent.com/57604289/137598441-f258594a-7396-44a2-a95b-99b0f50a41b8.png)
-
-
-### UI Design
-
-![codegebeta home ui design ](https://user-images.githubusercontent.com/57604289/137599084-05ded44c-06ee-4964-9886-9e6f6c648b37.png)
+- About CodeGebeta
+- Output
+- Technology used
+- Vision
+- Version
+- Running Instruction
+- Demo
 
 
 ## About CodeGebeta / Code ገበታ
 
-This React Native mobile application was built to help Ethiopians learn to code or become a programmer in a different programming language. Since the app is meant for Ethiopians, the content inside this application is displayed in the local language(Amharic). 
+Code Gebeta is a mobile application built with React native to help Ethiopians learn a programming language in their native language; this application contains different types of language courses, for instance, HTML, CSS, JS, React Js, and many more, since the app is for Ethiopians, the content inside this application is displayed in the local language(Amharic)
+The application is still under development; because of that, not all courses are complete. Also, due to technical limitations, that app works only on android phones.<br>
+
+## Final Output
+
+### UI Design
+<p float="left">
+<img src="https://user-images.githubusercontent.com/57604289/147479097-3ee10e7d-cc4c-485a-8120-1d3dbb6e1463.png" width="200px" height="400px">
+<img src="https://user-images.githubusercontent.com/57604289/147479098-c96bbda8-de1c-4f54-b113-4a5ca7a2a29e.png" width="400px" height="400px">
+</p>
+<br>
+### ScreenShoot<br>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/57604289/147479398-fcd7b1d9-97d1-460e-bb07-0f88fd4866dc.jpg" width="200px" height="400px">
+<img src="https://user-images.githubusercontent.com/57604289/147479400-c4f15b74-7af0-4a53-962c-e18ace287e33.jpg" width="200px" height="400px">
+<img src="https://user-images.githubusercontent.com/57604289/147479402-0ffe778d-de50-4534-8998-a1d4a1c10622.jpg" width="200px" height="400px">
+<img src="https://user-images.githubusercontent.com/57604289/147479403-a7b2d919-774f-4aae-b9c4-fbad0a4d71d1.jpg" width="200px" height="400px">
+</p>
+<br>
+
+## Technology used
+
 
 
 ### How to use this repo
