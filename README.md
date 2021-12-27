@@ -2,7 +2,7 @@
 
 ### Quick link
 
-- [About CodeGebeta](#about-codegebeta)
+- [About CodeGebeta](#about-codegebeta-/-code-ገበታ)
 - [Output](#final-output)
 - [Technology used](#technology-used)
 - [Vision](#vision)
