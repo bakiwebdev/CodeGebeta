@@ -1,8 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/57604289/137598441-f258594a-7396-44a2-a95b-99b0f50a41b8.png" width="50px" height="50px"> CodeGebeta
+# <img src="https://user-images.githubusercontent.com/57604289/137598441-f258594a-7396-44a2-a95b-99b0f50a41b8.png" width="50px" height="50px"> CodeGebeta / Code ገበታ
 
 ### Quick link
 
-- [About CodeGebeta](#about-codegebeta-code-ገበታ)
+- [About CodeGebeta](#about-codegebeta)
 - [Output](#final-output)
 - [Technology used](#technology-used)
 - [Vision](#vision)
@@ -11,7 +11,7 @@
 - [Demo](#demo)
 
 
-## About CodeGebeta / Code ገበታ
+## About CodeGebeta
 
 Code Gebeta is a mobile application built with React native to help Ethiopians learn a programming language in their native language; this application contains different types of language courses, for instance, HTML, CSS, JS, React Js, and many more, since the app is for Ethiopians, the content inside this application is displayed in the local language(Amharic)
 The application is still under development; because of that, not all courses are complete. Also, due to technical limitations, that app works only on android phones.<br>
