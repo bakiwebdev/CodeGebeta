@@ -50,7 +50,7 @@ Current version is 1.0.1
 
 How do I test on my computer? Please follow this step.
 
-Are you new to mobile development or have never worked with ReactNative before? Then, I highly suggest you configure the ReactNative CLI development environment. You can find the instruction here.
+Are you new to mobile development or have never worked with ReactNative before? Then, I highly suggest you configure the ReactNative CLI development environment. You can find the instruction [here](https://reactnative.dev/docs/environment-setup).
 
 Done !.
 
